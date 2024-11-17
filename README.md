@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A responsive and interactive cryptocurrency website developed using HTML, CSS, and JavaScript. The website provides up-to-date cryptocurrency information, including real-time prices, charts, and other key metrics.
+  A fully responsive Admin Panel built using HTML, CSS, and JavaScript. This project showcases a simple yet effective design for administrative management, allowing users to control various sections of a website or application.
 </p>
 
 ## 🚀 Features
