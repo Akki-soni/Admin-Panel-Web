@@ -32,9 +32,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For the structure of the website.
-- **CSS3**: For styling, animations, and responsive design.
-- **JavaScript**: To fetch and display real-time cryptocurrency data and handle interactions.
+- **HTML5**: For the structure of the panel.
+- **CSS3**: For styling and making the panel responsive.
+- **JavaScript**: For adding interactivity, dynamic content, and basic logic.
 
 ## 🌟 Screenshots
 
