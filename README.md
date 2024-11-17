@@ -23,11 +23,12 @@
 
 ## 🚀 Features
 
-- **Real-time Cryptocurrency Prices**: Displays live cryptocurrency prices fetched from an API.
-- **Interactive Charts**: Dynamic charts showing the price trends of various cryptocurrencies.
-- **Search Functionality**: Allows users to search for specific cryptocurrencies.
-- **Responsive Design**: Optimized for both mobile and desktop viewing.
-- **Lightweight and Fast**: Simple and fast user interface using vanilla JavaScript.
+- **Dashboard**: A summary view showing key statistics and insights.
+- **Responsive Design**: Works seamlessly on different screen sizes.
+- **Navigation Bar**: Includes a side navigation bar for easy access to different sections.
+- **User Management**: Section to add, edit, or remove users.
+- **Reports Section**: View reports on the site's activity.
+- **Interactive UI**: Clean and user-friendly interface for administrators.
 
 ## 🛠️ Technologies Used
 
