@@ -38,34 +38,23 @@
 
 ## 🌟 Screenshots
 
-![Cryptocurrency-Web_Screenshot](/images/C_Screenshot.png)
+![Admin-Panel-Web_Screenshot](/images/A-P_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://image-transform-effect.vercel.app/)
+[View Live Demo]()
 
 ## How to Use
 
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Akki-soni/Cryptocurrency-Web.git>
+   git clone <>
    ```
 2. Open the project folder:
    ```bash
-   cd Cryptocurrency-Web
+   cd Admin-Panel-Web
    ```
 3. Open index.html in any web browser
-
-## 🛠️ How it Works
-
-- The homepage displays a list of major cryptocurrencies and their prices.
-- Users can search for specific cryptocurrencies using the search bar.
-- Prices and charts are updated in real time based on the latest data.
-
-## 🛠️ API Integration
-
-- The website fetches cryptocurrency data from a third-party API (e.g., CoinGecko API, CoinMarketCap API).
-- API key and integration details can be configured in the `script.js` file.
 
 ## 🤝 Contributing
 
