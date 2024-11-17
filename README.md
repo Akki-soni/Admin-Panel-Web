@@ -38,7 +38,7 @@
 
 ## 🌟 Screenshots
 
-![Admin-Panel-Web_Screenshot](/images/A-P_Screenshot.png)
+![Admin-Panel-Web_Screenshot](/img/A-P_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -48,7 +48,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/Akki-soni/Admin-Panel-Web.git>
    ```
 2. Open the project folder:
    ```bash
@@ -76,7 +76,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
-  <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+  <img src="/img/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
 ## Thank You
