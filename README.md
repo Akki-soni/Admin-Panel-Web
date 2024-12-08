@@ -42,7 +42,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://admin-panel-web-indol.vercel.app/)
 
 ## How to Use
 
